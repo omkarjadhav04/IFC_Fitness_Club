@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780720556582",
+    "project_id": "ifc-fitness",
+    "storage_bucket": "ifc-fitness.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780720556582:android:fc5336e0a87e14e197f4e7",
+        "android_client_info": {
+          "package_name": "com.ifc.fitnessclub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTInO7QmOa5JllkIxigAdIwRdWZreX_qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
